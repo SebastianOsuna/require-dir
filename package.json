@@ -1,0 +1,23 @@
+{
+  "name": "require-dir",
+  "version": "1.0.0",
+  "description": "Require a whole directory a single module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianOsuna/require-dir.git"
+  },
+  "keywords": [
+    "nodejs",
+    "require"
+  ],
+  "author": "SebastianOsuna <jsebastianosuna@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SebastianOsuna/require-dir/issues"
+  },
+  "homepage": "https://github.com/SebastianOsuna/require-dir#readme"
+}
